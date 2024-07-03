@@ -1,5 +1,5 @@
 import sqlite3
-from user_class import User
+import user_class
 
 class Database:
     def __init__(self, User.username, User.login_password):
